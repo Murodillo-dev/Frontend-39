@@ -73,7 +73,7 @@ console.log(mixed.length);
 //   if (i % 5 == 0) {
 //     toq.push(i);
 //   }
-// }.
+// }
 // console.log(juft);
 // console.log(toq);
 
