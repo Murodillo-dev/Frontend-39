@@ -88,3 +88,4 @@ let pc = ["acer", "asus", "lenovo", ["rog gaming", "predator"]];
 const [one, two, three, four] = pc;
 const [five, six] = four;
 console.log(five);
+
