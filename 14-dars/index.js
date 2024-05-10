@@ -7,6 +7,7 @@ let user = [
   { id: 6, ism: "Vali", yonalish: "Backend", yosh: 19 },
 ];
 
+
 //Delete function
 // function deleteUser(data){
 // let res = user.filter(value => value.id != data)
@@ -33,7 +34,7 @@ let user = [
 //   user = res;
 // }
 
-// updateUser({ id: 4, type: "ism", newData: "Javohir" });
+// updateUser({ id: 4, type: "yonalish", newData: "Javohir" });
 // updateUser({ id: 2, type: "yonalish", newData: "Motion Design" });
 // console.log(user);
 
